@@ -2,7 +2,7 @@
 
 <img src="colourise_skinshot.png"/>
 
-#### v1.1.
+#### v5.1.
 
 - Sitewide_header included for easier multi-blogging experience
 - Visual improvements and adaptation to v6.6.+
