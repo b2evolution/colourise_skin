@@ -2,6 +2,10 @@
 
 <img src="colourise_skinshot.png"/>
 
+#### v5.1.1
+
+- Skin version fix
+
 #### v5.1.
 
 - Sitewide_header included for easier multi-blogging experience
